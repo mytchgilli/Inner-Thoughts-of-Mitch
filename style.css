@@ -9,21 +9,3 @@ p {
   color: brown
 }
 
-<!DOCTYPE html>
-<html>
-  
-  <head>
-    <title>mitchgilly</title>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="style.css?version=2" />
-  </head>
- <body>
-    <h1>inner thoughts</h1>
-    <p>still waiting...</p>
-    
-    <div>
-      <audio controls>
-          <source src="scream.mp3" type="audio/mpeg">
-          Your browser does not support the audio tag.
-      </audio>
-    </div>
